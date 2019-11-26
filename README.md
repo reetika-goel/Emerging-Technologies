@@ -2,8 +2,8 @@
 
 This repository contains the assignments for the Emerging Technology Class
 
-- Assignment1 - Lenet and VGG implementation
-- Assignment2 - Dog Breed Classifier
+- Assignment2 - Lenet and VGG implementation
+- Assignment3 - Dog Breed Classifier
 - Assignment4 (Part 1) - Implementation of the following models:
   1. Yolo V3
   2. DeepLab 
